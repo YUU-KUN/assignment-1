@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-tertiary: '#155dfc';
+}
