@@ -10,12 +10,12 @@
     </div>
 
     <!-- 🔝 Header -->
-    <header class="relative z-10 flex items-center justify-between px-8 py-6">
+    <header class="relative z-10 flex items-center justify-between px-6 md:px-8 py-6">
       <div class="text-xl font-bold flex items-center gap-2">
         <div class="w-5 h-5 rounded-lg bg-gradient-to-tr from-pink-400 to-purple-500"></div>
         <span>tsks<span class="text-pink-400">.</span></span>
       </div>
-      <nav class="flex items-center gap-6 text-sm text-[#c5c5d2]">
+      <nav class="flex items-center gap-4 md:gap-6 text-sm text-[#c5c5d2]">
         <a href="#features" class="hover:text-white">Features</a>
         <a href="#how" class="hover:text-white">How It Works</a>
         <a href="#cta" class="hover:text-white">Get Started</a>
@@ -40,15 +40,9 @@
           Learn More
         </button>
       </div>
-      <!-- <div class="mt-16 max-w-5xl mx-auto transform hover:scale-[1.02] transition duration-300 ease-in-out">
-        <img src="@/assets/images/preview.png" alt="App Preview" class="" />
-      </div> -->
 
       <div class="relative mt-16 max-w-5xl mx-auto transform hover:scale-[1.02] transition duration-300 ease-in-out">
         <!-- Purple Glow Behind Image -->
-        <!-- <div class="absolute inset-0 flex items-center justify-center -z-10" aria-hidden="true">
-          <div class="w-96 h-96 rounded-full bg-purple-500 blur-3xl opacity-30"></div>
-        </div> -->
         <div
           class="absolute left-0 bottom-0 w-40 h-40 rounded-full bg-gradient-to-tr from-purple-500 to-pink-500 blur-3xl opacity-30 animate-pulse">
         </div>
