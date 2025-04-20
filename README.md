@@ -1,35 +1,30 @@
-# assignment-1
+# 🌟 Todo App Landing Page - Dashtomer Assignment 1
 
-This template should help get you started developing with Vue 3 in Vite.
+A clean, informative, and responsive landing page built to introduce the Todo App. This page highlights the key features and benefits of the app, serving as the first impression for users.
 
-## Recommended IDE Setup
+## 🖼️ Overview
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+This landing page was created as part of **Dashtomer Assignment 1**. It includes:
+- Hero section with app introduction
+- Feature highlights
+- Visual previews or mockups
+- Call to action to try the app
 
-## Customize configuration
+## ✨ Features
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Responsive layout (mobile-first)
+- Clean and modern UI design
+- Smooth scroll and transition effects
+- Clear call-to-action (CTA)
+- Feature explanation sections
 
-## Project Setup
+## 🧰 Tech Stack
 
-```sh
+- **Framework**: HTML + Vue 3 (Optional usage)
+- **Styling**: Tailwind CSS v4
+
+## 📦 Project Setup
+
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
